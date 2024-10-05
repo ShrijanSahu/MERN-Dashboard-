@@ -1,0 +1,87 @@
+/* 
+   .login-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .login-button:hover {
+    background-color: #333;
+  }
+  
+  .login-button:active {
+    transform: scale(0.95);
+  }
+  
+
+   nav.container{
+     display : flex;
+     justify-content: space-between;
+     height: 65px;
+     align-items: center;
+     background-color: rgb(215, 84, 110);
+   padding: 0 20px;
+   }
+   
+   nav ul{
+     display: flex;
+     list-style: none;
+     gap: 40px;
+     font-size: 17px;
+    
+   }
+    */
+
+
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #be4747;
+      padding: 10px 20px;
+    }
+    
+    .logo img {
+      height: 40px;
+    }
+    
+    ul {
+      list-style: none;
+      display: flex;
+      margin: 0;
+      padding: 0;
+    }
+    
+    ul li {
+      margin: 0 10px;
+    }
+    
+    ul li a {
+      color: white;
+      text-decoration: none;
+    }
+    
+    .login-button {
+      background-color: black;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.3s;
+    }
+    
+    .login-button:hover {
+      background-color: #333;
+    }
+    
+    .login-button:active {
+      transform: scale(0.95);
+    }
+    
