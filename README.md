@@ -89,12 +89,12 @@ Used D3.js functions to create scales, axes, and chart elements (bars, lines, pa
 Implemented responsive designs for the charts.
 
 
-Styling:
+### Styling:
 
 Applied CSS for layout and styling.
 Ensured that the filtered titles display in a row by using flexbox
 .
-Testing and Debugging:
+### Testing and Debugging:
 
 Tested the application to ensure data is correctly fetched and displayed.
 Debugged any issues with data rendering and chart responsiveness.
